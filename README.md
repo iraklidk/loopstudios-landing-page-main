@@ -22,7 +22,7 @@ Screenshot 2 PC - https://ibb.co/DfVQrfG
 
 ### Links
 
-- Live Site URL: https://iraklido.github.io/loopstudios-landing-page-main/
+- Live Site URL: https://iraklidk.github.io/loopstudios-landing-page-main/
 
 ### Built with
 
